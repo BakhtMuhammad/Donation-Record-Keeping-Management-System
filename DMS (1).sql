@@ -14,7 +14,6 @@ create table users
 insert into users values('Ali','admin', 'admin')
 delete from users
 select * from users
-
 ---------------------------------------------------------------
 --2 Register Donor
 ---------------------------------------------------------------
